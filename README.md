@@ -1,6 +1,8 @@
 # library-database
 
-## ПБД PostgreSQL. База данных библиотеки
+ПБД PostgreSQL. База данных библиотеки
+
+---
 
 <img width="1536" height="758" alt="image" src="https://github.com/user-attachments/assets/3d62b311-a102-4ff5-91b8-f03ad0e801f3" />
 ## Экспорт SQL
